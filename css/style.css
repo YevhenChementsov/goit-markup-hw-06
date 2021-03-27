@@ -210,6 +210,7 @@ img {
 }
 .address-list {
   display: inline-block;
+  width: max-content;
   padding-bottom: 60px;
 }
 .address .item:not(:last-child) {
